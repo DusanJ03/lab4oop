@@ -1,0 +1,20 @@
+Naziv: More, Povrsina: 3.00, Plavetnilo: 4.00, SnagaVetra: 5, Tezina: 2.65, Lepota: 6.67
+Naziv: More, Povrsina: 2.00, Plavetnilo: 3.00, SnagaVetra: 4, Tezina: 1.6, Lepota: 6
+Naziv: More, Povrsina: 1.00, Plavetnilo: 2.00, SnagaVetra: 5, Tezina: 0.56, Lepota: 10
+Naziv: Gora, Povrsina: 3.00, Duzina: 4.00, Visina: 5.00, InvPosumljenost: 0.60, Tezina: 0.18, Lepota: 2
+Naziv: Gora, Povrsina: 2.00, Duzina: 3.00, Visina: 7.00, InvPosumljenost: 0.50, Tezina: 0.11, Lepota: 3.5
+Naziv: Gora, Povrsina: 1.00, Duzina: 2.00, Visina: 3.00, InvPosumljenost: 0.40, Tezina: 0.1, Lepota: 1.8
+Naziv: Mocvara, Povrsina: 3.00, ZitkostMulja: 0.30, Tezina: -0.08, Lepota: 1.08
+Naziv: Mocvara, Povrsina: 2.00, ZitkostMulja: 0.30, Tezina: -0.47, Lepota: 1.47
+Naziv: Mocvara, Povrsina: 1.00, ZitkostMulja: 0.20, Tezina: -3.2, Lepota: 4.2
+
+Naziv: More, Povrsina: 1.00, Plavetnilo: 2.00, SnagaVetra: 5, Tezina: 0.56, Lepota: 10
+Naziv: More, Povrsina: 3.00, Plavetnilo: 4.00, SnagaVetra: 5, Tezina: 2.65, Lepota: 6.67
+Naziv: More, Povrsina: 2.00, Plavetnilo: 3.00, SnagaVetra: 4, Tezina: 1.6, Lepota: 6
+Naziv: Mocvara, Povrsina: 1.00, ZitkostMulja: 0.20, Tezina: -3.2, Lepota: 4.2
+Naziv: Gora, Povrsina: 2.00, Duzina: 3.00, Visina: 7.00, InvPosumljenost: 0.50, Tezina: 0.11, Lepota: 3.5
+Naziv: Gora, Povrsina: 3.00, Duzina: 4.00, Visina: 5.00, InvPosumljenost: 0.60, Tezina: 0.18, Lepota: 2
+Naziv: Gora, Povrsina: 1.00, Duzina: 2.00, Visina: 3.00, InvPosumljenost: 0.40, Tezina: 0.1, Lepota: 1.8
+Naziv: Mocvara, Povrsina: 2.00, ZitkostMulja: 0.30, Tezina: -0.47, Lepota: 1.47
+Naziv: Mocvara, Povrsina: 3.00, ZitkostMulja: 0.30, Tezina: -0.08, Lepota: 1.08
+

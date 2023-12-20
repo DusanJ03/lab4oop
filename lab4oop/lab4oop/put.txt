@@ -1,0 +1,10 @@
+9
+Gora 1 2 3 0.4
+More 1 2 5
+Mocvara 1 0.2
+Gora 2 3 7 0.5
+More 2 3 4
+Mocvara 2 0.3
+Gora 3 4 5 0.6
+More 3 4 5
+Mocvara 3 0.3
